@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="Wish">2755ad922f2e4110a4c85aab2799b6ae</application>
+        <filter/>
+        <name>Wishes</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_747965_list_w.wish_user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-01 09:29:15</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>2755ad922f2e4110a4c85aab2799b6b1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Wishes</sys_name>
+        <sys_package display_value="List W" source="x_747965_list_w">04446d5e2fea4110a4c85aab2799b688</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="List W">04446d5e2fea4110a4c85aab2799b688</sys_scope>
+        <sys_update_name>sys_ui_module_2755ad922f2e4110a4c85aab2799b6b1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-04-01 09:29:15</sys_updated_on>
+        <table>x_747965_list_w_wish</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+</record_update>
